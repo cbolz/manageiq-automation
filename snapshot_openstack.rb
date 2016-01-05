@@ -6,6 +6,13 @@
 # Description: Create snapshot of currently selected instance
 #http://www.jung-christian.de/2015/12/create-snapshots-in-openstack/
 #
+=begin
+changelog:
+3. adding "tenant" button
+2. adding snapshot prefix with date string
+1. refer from: http://www.jung-christian.de/2015/12/create-snapshots-for-a-service-in-openstack/
+ 
+=end
 
 @method = 'create_snapshot'
 
