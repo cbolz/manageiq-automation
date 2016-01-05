@@ -1,10 +1,9 @@
 #!/usr/bin/env ruby
-# Description: <Method description here>
-#
+
 # Description: hot add disk of currently selected instance
-#ykim@redhat.com
-#date: 2015.12.31
-#changelog
+# ykim@redhat.com
+# date: 2015.12.31
+# changelog
 #- discover existing attached volume devices names.
 #- create volume and attach it to instance.
 
